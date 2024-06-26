@@ -10,9 +10,7 @@ require (
 	github.com/miguelpruivo/flutter_file_picker/go v0.0.0-20210622152105-9f0a811028a0
 	github.com/niuhuan/pica-go v0.0.0-20211115032844-c44c612e1641
 	github.com/pkg/errors v0.9.1
-	golang.org/x/image v0.0.0-20190802002840-cff245a6509b
-	golang.org/x/mobile v0.0.0-20210924032853-1c027f395ef7 // indirect
-	golang.org/x/sys v0.0.0-20210510120138-977fb7262007 // indirect
+	golang.org/x/image v0.18.0
 	gorm.io/driver/sqlite v1.1.4
 	gorm.io/gorm v1.21.12
 )
